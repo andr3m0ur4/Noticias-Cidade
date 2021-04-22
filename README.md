@@ -1,2 +1,11 @@
 # Noticias-Cidade
-Site desenvolvido com conhecimentos intermediários em HTML e CSS, com um layout bastante interessante e fixo.
+
+Website developed with intermediate knowledge in HTML and CSS, using a very interesting and fixed layout.
+
+## Installation
+
+Clone the project on your PC.
+
+## Usage
+
+So, open the root directory in your Browser.
